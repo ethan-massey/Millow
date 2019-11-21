@@ -5,3 +5,6 @@ first_version.py
 *.png
 *.mid
 venv
+
+.DS_store
+.idea/
